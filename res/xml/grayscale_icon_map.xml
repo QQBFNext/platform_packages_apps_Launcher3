@@ -14,4 +14,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<icons></icons>
+<icons>
+    <icon drawable="@drawable/themed_icon_dialer" name="ACR Phone" package="com.nll.cb" />
+    <icon drawable="@drawable/themed_icon_dialer" name="Phone by Google" package="com.google.android.dialer" />
+    <icon drawable="@drawable/themed_icon_dialer" name="Phone" package="com.android.dialer" />
+    <icon drawable="@drawable/themed_icon_browser" package="org.eu.droid_ng.jellyfish" name="Browser" />
+</icons>
